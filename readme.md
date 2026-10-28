@@ -174,9 +174,7 @@ This project is intended for educational and research purposes only. It must not
 
 ## Author
 
-**Your Name**
-
-Add your GitHub profile and contact details here.
+Vansh Gupta GitHub: github.com/vanshguptaa14 LinkedIn: linkedin.com/in/vansh-gupta-62a117305.
 
 ## License
 
